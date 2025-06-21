@@ -62,7 +62,6 @@ body {
 }
 
 
-
 .text-content h1 {
     font-size: 40px;
 }
@@ -94,6 +93,7 @@ body {
     align-items: center;
     gap: 3px;
     color: white;
+    
     
 }
 
@@ -155,6 +155,10 @@ body {
         gap: 1.5rem;
         margin-bottom: 2rem;
         margin-top: 2rem;
+    }
+    .bt-bar{
+        margin: auto;
+        margin-top: 10px;
     }
 }
     
