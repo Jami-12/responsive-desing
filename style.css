@@ -94,6 +94,7 @@ body {
     align-items: center;
     gap: 3px;
     color: white;
+    
 }
 
 .bt-bar i{
@@ -102,7 +103,6 @@ body {
 
 .bt-bar:hover {
     color: black;
-    transform: .10s;
     cursor: pointer;
 }
 
@@ -131,6 +131,17 @@ body {
     .main-container {
         flex-direction: column;
         gap: 10px;
+    }
+
+    .text-content h1 { 
+        text-align: center;
+
+    }
+    .text-content p {
+        text-align: center;
+    }
+    .text-content button {
+        text-align: center;
     }
 
     .hero-section {
